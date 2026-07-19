@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TemplateMod": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\joeto\\Desktop\\TanksRebirth"
+    }
+  }
+}
